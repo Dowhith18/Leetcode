@@ -1,3 +1,5 @@
+import java.util.HashMap;
+import java.util.Map;
 class Romantointeger
  {
     public int romanToInt(String s) {
